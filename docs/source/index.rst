@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+Shop đồng hồ Replica 1:1 - Đồng hồ chế tác kim cương, vàng cao cấp donghomaythuysi.vn
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Donghomaythuysi vn <https://donghomaythuysi.vn/>`_ là shop chuyên cung cấp các mẫu đồng hồ Replica 1:1 cao cấp, chế tác từ kim cương và vàng, mang đến sự sang trọng và đẳng cấp cho người sở hữu. Chúng tôi cam kết mỗi sản phẩm đều được chế tác tỉ mỉ, hoàn thiện đến từng chi tiết, với chất liệu cao cấp và thiết kế tinh xảo. Từ đồng hồ thời trang đến những mẫu đồng hồ có giá trị cao, mỗi món đồ tại Donghomaythuysi.vn đều phản ánh phong cách và gu thẩm mỹ độc đáo của bạn. Sự lựa chọn hoàn hảo cho những ai yêu thích sự hoàn hảo.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Store Hà Nội : 336 Đ. Bưởi, Vĩnh Phú, Ba Đình, Hà Nội, Việt Nam
 
-   This project is under active development.
+Store HCM :  39 Nguyễn Trọng Lội, Phường 4, Tân Bình, Hồ Chí Minh, Việt Nam
 
-Contents
---------
+Phone: 0766858555
 
-.. toctree::
+Email: donghomaythuysi.contact@gmail.com
 
-   usage
-   api
+Website: https://donghomaythuysi.vn/ 
+
+#donghothuysi #donghothuysy #chetacdongho #donghochetac #donghohublot #donghorolex #donghokimcuong #donghoomega #donghovangkhoi
